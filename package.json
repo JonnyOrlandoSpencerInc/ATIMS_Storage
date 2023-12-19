@@ -1,7 +1,7 @@
 {
   "name": "atims_storage",
   "version": "1.0.0",
-  "type": "module",
+  "type": "commonjs",
   "main": "app.js",
   "scripts": {
     "start": "nodemon api/app.js",

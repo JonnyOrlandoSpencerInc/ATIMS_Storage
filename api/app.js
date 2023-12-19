@@ -1,7 +1,8 @@
-import express from "express";
-import multer, { diskStorage, MulterError } from "multer";
-import cors from "cors";
-import fs from "fs/promises";
+const express = require('express');
+const multer = require('multer');
+const { diskStorage, MulterError } = require('multer');
+const cors = require('cors');
+const fs = require('fs').promises;
 
 const app = express();
 // there is no .env file but this would allow one to be used.
