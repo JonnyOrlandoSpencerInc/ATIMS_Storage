@@ -1,6 +1,9 @@
 # ATIMS_Storage
 
-## npm instal, npm start
+## To Run the App
+
+- npm install
+  -npm start
 
 ### Potenial updates
 
